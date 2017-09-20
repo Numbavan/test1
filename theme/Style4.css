@@ -1,0 +1,11 @@
+.pic{
+	height: 500px;
+	width: 800px;
+    margin-left: 500px;	
+	margin-top: 200px;
+	border-radius: 15px;
+}
+
+.pic:hover{
+	border: 3px solid #80D341;
+}

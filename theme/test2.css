@@ -1,0 +1,69 @@
+body{
+	background: #374251;
+}
+
+.block{
+	width: 750px;
+	height: 525px;
+	background: #333C4B;
+	margin: 250px auto;
+	border-top: 13px solid #80D341;
+}
+
+.content{
+	padding: 50px;
+	text-align: center;
+}
+
+.content h1{
+	color: #FFF;
+	font-weight: normal;
+	font-size: 50px;
+}
+
+.content p{
+	color: #D6D8DB;
+	font-size: 26px;
+	margin-top: 5px;
+}
+
+input{
+	color: grey;
+	font-size: 20px;
+	padding: 6px;
+	background: #262C36;
+	border: none;
+	border-radius: 5px;
+	margin-left: 180px;
+	float: left;
+	width: 300px;
+	height: 40px;
+}
+
+.login{
+	margin-top: 10px; 
+}
+
+.pass{
+	margin-top: 20px; 
+}
+
+button{
+	background: #80D341;
+	color: #FFF;
+	padding: 10px;
+	width: 40%;
+	margin-top: 20px;
+	margin-left: 20px;
+	text-align: center;
+	border: none;
+	border-radius: 3px;
+	height: 45px;
+	font-size: 20px;
+	
+}
+
+button:hover{
+	opacity: 0.9;
+	cursor: pointer;
+}
