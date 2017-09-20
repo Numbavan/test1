@@ -12,7 +12,7 @@ if(isset($_GET[col])){
 	else
 		echo "Error!";
 	die();
-}	
+}	//
 
 
 if(isset($_GET[option])){
